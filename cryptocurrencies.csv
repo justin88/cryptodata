@@ -1,0 +1,13 @@
+# uuid, name, ticker, birthday, generation, mineable?, miningalgorithm, memoryhard?
+6a572f2c6ceb4413a5c00a63cd782355, Bitcoin, BTC, 20090108, 1, 1, SHA-256, 0
+e30014c370604d89aafa933d476e55ed, Litecoin, LTC, 20111007, 1, 1, Scrypt, 1
+c7479912c7464f51884c4a5979d64913, Bitcoin Cash, BCH, 20170801, 1, 1, SHA-256, 0
+a59c48115b2243c29307da94f36bf779, Ethereum, ETH, 20150730, 2, 1, Ethash, 1
+76cc639386784ae48cbcce52c017ed3f, Cardano, ADA, 1, 3, 1, ?
+
+
+
+
+
+
+
